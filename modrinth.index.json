@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.7",
+  "versionId": "1.0.8",
   "name": "Oh no! It's Yet Another Pack",
   "summary": "",
   "files": [
@@ -49,21 +49,6 @@
         "https://cdn.modrinth.com/data/p19vrgc2/versions/EJMDd0qw/fusion-1.2.12-forge-mc1.20.1.jar"
       ],
       "fileSize": 544586
-    },
-    {
-      "path": "mods/Chunky-1.3.146.jar",
-      "hashes": {
-        "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
-        "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar"
-      ],
-      "fileSize": 341451
     },
     {
       "path": "mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
@@ -424,21 +409,6 @@
         "https://cdn.modrinth.com/data/wQpKGqNJ/versions/8qDfChgt/create_waystones_recipes-1.0.1.b.jar"
       ],
       "fileSize": 102290
-    },
-    {
-      "path": "mods/transpondersnails-2.0.2.jar",
-      "hashes": {
-        "sha512": "ee4597e4b456d4740b86acfa953b8c020ff85a6dc74c054fc9d765fa6976303ed3faeeaa87b5cb10a611af9d29943d1f861deaab236753895b5c39178b006dac",
-        "sha1": "ce3b91b0e4f14d20a77e56481faf1f66478ebc79"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/XHXFxaa9/versions/kEKgLt4v/transpondersnails-2.0.2.jar"
-      ],
-      "fileSize": 8316579
     },
     {
       "path": "mods/create-structures-0.1.1-1.20.1-FORGE.jar",
@@ -1032,7 +1002,7 @@
         "sha512": "71d00b03760bddd6caa5c2a55c6394be77b9cd6085d2199d647d216841e9966937f18d9103349723cc2d2944168803440557bdc32d0eec07dd3f8d49d9939c5c"
       },
       "env": {
-        "server": "required",
+        "server": "unsupported",
         "client": "required"
       },
       "downloads": [
@@ -1257,7 +1227,7 @@
         "sha512": "679cb6f9b55d7eea43c17f0204042140590de712b0cecdc14016e8064a9846695e2f438922377f658e26534c49cb61e6da939a6be53c2cb1cd1bc088b69db3ee"
       },
       "env": {
-        "server": "required",
+        "server": "unsupported",
         "client": "required"
       },
       "downloads": [
@@ -1603,7 +1573,7 @@
       },
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/1bokaNcj/versions/iMXAV165/xaerominimap-forge-1.20.1-25.3.10.jar"
@@ -1633,7 +1603,7 @@
       },
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/NcUtCpym/versions/vUbAYOnm/xaeroworldmap-forge-1.20.1-1.40.11.jar"
